@@ -1,0 +1,25 @@
+* {
+  text-align: center;
+}
+#btn {
+  border-radius: 50px;
+  background-color: black;
+  color: white;
+  border-color: black;
+}
+#champs {
+  border-radius: 50px;
+  background-color: white;
+}
+body {
+  background-color: skyblue;
+}
+img {
+  border-radius: 70px;
+  height: 200px;
+  width: 200px;
+  margin: 3%;
+}
+h1 {
+  font-size:20px;
+}
